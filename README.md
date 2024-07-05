@@ -1,4 +1,4 @@
-Sobre o projeto de microsserviços, nosso grupo ficou responsável pelo desenvolvimento da Conta Corrente. O projeto já esta na pasta que o professor criou, com o Docker pronto, basta rodar os comandos e ele estará rodando na porta 3003, ouvindo a porta do mysql 3308. Sobre os métodos existentes, nós temos um Swagger que lista todos os endpoints (http://localhost:3003/swagger-ui/index.html). Mas resumindo, não limitando-se, os principais:
+Sobre os métodos existentes, nós temos um Swagger que lista todos os endpoints (http://localhost:3003/swagger-ui/index.html). Mas resumindo, não limitando-se, os principais:
 
 CONTAS:
 /api/conta (GET): Busca e retorna todas as contas
